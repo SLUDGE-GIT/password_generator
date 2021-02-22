@@ -5,12 +5,14 @@ A preview of web-app
 ![pass_gen](https://user-images.githubusercontent.com/67348654/108678675-05c8a100-74b1-11eb-85fe-3cf832e7d2af.jpg)
 
 
+--------------------------------------------------
 
 
 
+link to github pages
+https://sludge-git.github.io/password_generator/
 
-
-
+--------------------------------------------------
 
 
 
