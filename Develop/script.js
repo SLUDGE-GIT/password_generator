@@ -100,15 +100,3 @@ function writePassword() {
 //Add event listener to generate button
 generateBtn.addEventListener("click", writePassword);
 
-
-
-// alert how many characters the password contain 8-128
-//check and prompt if number entered is bigger than 8 and lower than 128
-// prompt to include special characters
-// promt to include numeric
-//prompt to include lowercase
-//prompt to include uppercase
-
-// if no input alert them that it isnt a number
-
-
